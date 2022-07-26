@@ -1,0 +1,51 @@
+body{
+	background-image: url(img1.jpg);
+	background-repeat: no-repeat;
+	background-position: right-top;
+	background-attachment: fixed;
+}
+.a{
+	background-color: blue;
+	opacity: 0.3;
+	color: white;
+	font-size: 20px;
+	height: 200px;
+	width: 150px;
+	border: 5px solid black;
+
+}
+.b{
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	height: 200px;
+	width: 150px;
+	border: 5px solid white;
+}
+.c
+{
+	background-color: yellow;
+	color: black;
+	font-size: 20px;
+	height: 200px;
+	width: 150px;
+	border: 5px solid black;
+}
+.d 
+{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	height: 200px;
+	width: 150px;
+	border: 5px solid black;
+}
+.e
+{
+	background-color: coral;
+	color: white;
+	font-size: 20px;
+	height: 200px;
+	width: 150px;
+	border: 5px solid black;
+}

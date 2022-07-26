@@ -1,0 +1,39 @@
+body{
+
+	/*background-image: url(img1.jpg);*/
+	background-repeat: no-repeat; 
+	background-attachment: fixed;
+	background-position: top;
+	opacity: 0.8;
+	background: coral;
+}
+.a
+{
+	color: blue;
+	font-size: 15px;
+	font-family: arial;
+	border: 1px solid black;
+	width: 112px;
+	height: 40px;
+	background: yellow;
+
+}
+.b
+{
+	background: green;
+	width: 112px;
+	border: 1px solid black;
+	font-size: 15px;
+	font-family: arial;
+
+}
+span{
+	border: 1px solid black;
+}
+.c{
+	border: 1px solid black;
+	width: 500px;
+	height: 150px;
+	background: yellow;
+	border-radius: 75px;
+}
